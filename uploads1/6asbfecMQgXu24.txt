@@ -1,0 +1,2 @@
+1. Admin side rejected profile management
+2. Admin creation and management
